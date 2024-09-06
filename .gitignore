@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/datafeed_env
 /.pnp
 .pnp.js
 
